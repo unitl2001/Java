@@ -1,7 +1,7 @@
 package tw.org.iii.mytest;
 
 public class Bread02 {
-
+		//api看java.lang "short byte int"
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//簡單使用（玩）用int
