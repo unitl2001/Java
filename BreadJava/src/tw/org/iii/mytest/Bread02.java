@@ -29,8 +29,10 @@ public class Bread02 {
 		System.out.println(b5);
 		b5 --;
 		System.out.println(b5);
-		b5 += 2;
-		System.out.println(b5);
+		b5 -= 4;
+		System.out.println(b5); 
+		//宣告是多少他的範圍是固定的-127~128
+		//b5 = b5 + 1; //b5 b5要宣告為int常數 因為他是變數 
 	}
 
 }
