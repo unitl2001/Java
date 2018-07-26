@@ -1,7 +1,11 @@
 package tw.org.iii.mytest;
 
 public class Bread01 {  //物件導向
-
+		//基本型別8種類
+	    //整數型別 int (常用) byte（次常用） short long（不常用）
+		//浮點數 float（次常用） double(用double方便 所以常用)
+		//字元
+		//布林值
 	public static void main(String[] args) { //語法寫這 該列別程式 主執行程式（主敘）
 		// TODO Auto-generated method stub 單列註解
 		/*
