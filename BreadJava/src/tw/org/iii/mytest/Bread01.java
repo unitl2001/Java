@@ -1,5 +1,5 @@
 package tw.org.iii.mytest;
-
+ //ctrl+shift+f 排版
 public class Bread01 {  //物件導向
 		//基本型別8種類
 	    //整數型別 int (常用) byte（次常用） short long（不常用）
@@ -20,6 +20,7 @@ public class Bread01 {  //物件導向
 		//弱型別語言 javascript php 給了值 可以改變（浮點數）
 		
 		////local variablae b1 稱為區域變數 function
+		//byte 位元組
 		byte b1; // (-1~-128)-128 ~127(0~127) java無正負號 => 256 => 2^8
 		byte b2 = 12; //對他宣告同時給值
 		byte b3 = -127; //128會編譯失敗 -129也會失敗

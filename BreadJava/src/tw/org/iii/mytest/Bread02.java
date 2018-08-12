@@ -33,6 +33,11 @@ public class Bread02 {
 		System.out.println(b5); 
 		//宣告是多少他的範圍是固定的-127~128
 		//b5 = b5 + 1; //b5 b5要宣告為int常數 因為他是變數 
+		
+		
+		//Bread50 測試 超過2G就會超過精算
+		int v1 = (int)5000000000L;
+		System.out.println(v1);
 	}
 
 }
